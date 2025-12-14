@@ -1,0 +1,6 @@
+deploy/
+cache/
+dist/
+node_modules/
+*.mp4
+*.mp3
